@@ -1,5 +1,5 @@
 {
-  "name": "cleave.js",
+  "name": "@govhhs/cleave.js",
   "title": "cleave.js",
   "description":
     "JavaScript library for formatting input text content when you are typing",
@@ -8,8 +8,7 @@
   "files": ["src", "dist", "react.js"],
   "author": {
     "name": "Max Huang",
-    "url": "http://github.com/nosir",
-    "email": "risonhuang@gmail.com"
+    "url": "https://github.com/mihaelamiches/cleave.js"
   },
   "license": "Apache-2.0",
   "bugs": "https://github.com/nosir/cleave.js/issues",
